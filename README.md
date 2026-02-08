@@ -1,1 +1,1 @@
-This project analyzes hospital admission records to identify revenue drivers, operational bottlenecks, and bed capacity inefficiencies. By processing over 10,000 patient records and analyzing $1.4B in revenue, I developed an end-to-end analytics pipeline to answer a critical business question: "Which patient segments are driving up Length of Stay (LOS) without generating proportional revenue?"
+
